@@ -1,7 +1,9 @@
-# Nootrobox Certificates of Analysis
+# Nootrobox Certificates of Analysis (Open Source)
 
 Each lot of product we produce is individually tested and validated
 for heavy metal, microbiological, and active ingredient content.
+
+We open source our process and our active ingredients, and our 3rd Party QA lab results. We believe everyone should know exactly what they're taking.
 
 ## Pull Requests
 
