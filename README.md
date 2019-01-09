@@ -1,4 +1,4 @@
-# Nootrobox Certificates of Analysis (Open Source)
+# HVMN Certificates of Analysis (Open Source)
 
 Each lot of product we produce is individually tested and validated
 for heavy metal, microbiological, and active ingredient content.
@@ -7,7 +7,7 @@ We open source our process and our active ingredients, and our 3rd Party QA lab 
 
 ## Pull Requests
 
-Please check to make sure your plans fall within Nootrobox's scope. This often means opening up a [discussion](https://reddit.com/r/nootrobox).
+Please check to make sure your plans fall within HVMN's scope. This often means opening up a [discussion](https://reddit.com/r/nootrobox).
 
 Non-Production Pull Requests such as typo fixes or documentation improvements are highly encouraged and are often accepted immediately.
 
